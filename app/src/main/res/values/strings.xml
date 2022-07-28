@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">ProyectoDiseño</string>
+
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="email">E-mail</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="fisio">Fisioterapeuta</string>
+    <string name="est">Estudiante</string>
+    <string name="registrar_paciente">Registrar Paciente</string>
+    <string name="registrar">Registrar</string>
+
+    <string name="title_activity_test">TestActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_resistencia">Resistencia</string>
+    <string name="menu_cardio">Cardio</string>
+    <string name="menu_equilibrio">Equilibrio</string>
+    <string name="menu_marcha">Marcha</string>
+    <string name="menu_dolor">Dolor</string>
+    <string name="menu_postura">Postura</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_pares_craneales">Pares Craneales</string>
+    <string name="menu_reflejos_primitivos">Reflejos Primitivos</string>
+    <string name="menu_fuerza">Fuerza</string>
+    <string name="menu_AVD">AVD</string>
+    <string name="menu_AIVD">AIVD</string>
+    <string name="menu_potencia">Potencia</string>
+    <string name="menu_ergonomia">Ergonomía</string>
+    <string name="menu_ortopedicos">Ortopédicos</string>
+    <string name="menu_velocidad">Velocidad</string>
+    <string name="menu_ventilacion_respiracion">Ventilación y respiración</string>
+    <string name="menu_rango_movimiento">Rango de movimiento</string>
+    <string name="menu_integridad_sensorial">Integridad Sensorial</string>
+    <string name="menu_antropometria">Antropometría</string>
+    <string name="menu_alerta_atencion_cognicion">Alerta, atención y cognición</string>
+    <string name="menu_integridad_tegumentaria">Integridad Tegumentaria</string>
+    <string name="menu_integridad_refleja">Integridad Refleja</string>
+    <string name="menu_factores_ambientales">Factores Ambientales</string>
+    <string name="menu_funcion_motora">Función Motora</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="apellido">Apellido</string>
+    <string name="nombre">Nombre:</string>
+
+</resources>

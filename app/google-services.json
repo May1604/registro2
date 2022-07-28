@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "944387953537",
+    "project_id": "proyecto-diseno-4d079",
+    "storage_bucket": "proyecto-diseno-4d079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944387953537:android:f261cdf104a9c463400e80",
+        "android_client_info": {
+          "package_name": "com.example.proyectodiseo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944387953537-h7nn5dqk5jm3o0htdjnbb5sspohqsdad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBY9rnzepG_4trZOrJybSChB93khDW5lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944387953537-h7nn5dqk5jm3o0htdjnbb5sspohqsdad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
